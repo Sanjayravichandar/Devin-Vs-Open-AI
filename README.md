@@ -32,7 +32,7 @@
 | Focus |	AI software engineer|	AI research
 |Functionality|	End-to-end software development|	Provides tools and resources for developers
 |Autonomy|	Claimed to be fully autonomous|	Tools require human input and integration
-Transparency|	Limited information on internal workings|	More open approach to research and development
+Transparency|	Limited information on internal workings|	More open approach to research and development|
 
 
 
