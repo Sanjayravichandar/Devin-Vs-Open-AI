@@ -9,9 +9,9 @@
 
 #### Developed by Cognition, Devin is an AI software development assistant. Key features include:
 
-- #### Coding and Development: Devin can write code, create websites, and build software based on a single prompt.
-- #### Problem-Solving: It can debug code, identify and fix errors, and potentially plan complex development tasks.
-- #### Learning and Improvement: Devin utilizes machine learning to continuously learn from its experiences and improve its performance.
+- #### **Coding and Development:** Devin can write code, create websites, and build software based on a single prompt.
+- #### **Problem-Solving:** It can debug code, identify and fix errors, and potentially plan complex development tasks.
+- #### **Learning and Improvement:** Devin utilizes machine learning to continuously learn from its experiences and improve its performance.
 
 
 
@@ -32,15 +32,16 @@
 | Focus |	AI software engineer|	AI research
 |Functionality|	End-to-end software development|	Provides tools and resources for developers
 |Autonomy|	Claimed to be fully autonomous|	Tools require human input and integration
-Transparency|	Limited information on internal workings|	More open approach to research and development|
+Transparency|	Limited information on internal workings|	More open approach to research and development |
 
 
 
-# **Impact**
+# **Impacts**
+#### Future Impacts
 
-- #### Increased Efficiency: Both Devin and OpenAI's tools have the potential to streamline software development workflows, allowing developers to focus on complex tasks and reducing development time.
-- #### Democratization of Development: Devin's user-friendly approach could potentially make software creation more accessible to those without extensive coding experience. OpenAI's API could empower developers to integrate AI functionalities into their projects.
-- #### Evolving Landscape: The capabilities of both Devin and OpenAI are likely to continue evolving, necessitating adaptation and upskilling for human developers.
+- #### **Increased Efficiency:** Both Devin and OpenAI's tools have the potential to streamline software development workflows, allowing developers to focus on complex tasks and reducing development time.
+- #### **Democratization of Development:** Devin's user-friendly approach could potentially make software creation more accessible to those without extensive coding experience. OpenAI's API could empower developers to integrate AI functionalities into their projects.
+- #### **Evolving Landscape:** The capabilities of both Devin and OpenAI are likely to continue evolving, necessitating adaptation and upskilling for human developers.
 
 # **Conclusion**
 
