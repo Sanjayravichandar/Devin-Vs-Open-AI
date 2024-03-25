@@ -35,7 +35,6 @@
 Transparency|	Limited information on internal workings|	More open approach to research and development
 
 
-
  # **Impact**
 
 - #### Increased Efficiency: Both Devin and OpenAI's tools have the potential to streamline software development workflows, allowing developers to focus on complex tasks and reducing development time.
